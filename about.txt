@@ -1,3 +1,35 @@
-编写微信聊天机器人4《聊天精灵WeChatGenius》：实时获取到微信聊天消息，hook数据库插入操作
+自己动手用Android和Xposed编写一个微信聊天机器人——《微信聊天精灵》实现关键词自动回复
+https://blog.csdn.net/weixin_42127613/article/details/81837043
 
-原文地址：https://blog.csdn.net/weixin_42127613/article/details/81840536
+编写微信聊天机器人1《聊天精灵WeChatGenius》：搭建环境，创建项目，提交GitHub
+https://blog.csdn.net/weixin_42127613/article/details/81838217
+
+编写微信聊天机器人2《聊天精灵WeChatGenius》：引入Xposed库，使模块生效
+https://blog.csdn.net/weixin_42127613/article/details/81839002
+
+编写微信聊天机器人3《聊天精灵WeChatGenius》：使用Xposed来hook微信，找到微信进程
+https://blog.csdn.net/weixin_42127613/article/details/81839537
+
+编写微信聊天机器人4《聊天精灵WeChatGenius》：实时获取到微信聊天消息，hook数据库插入操作
+地址：https://blog.csdn.net/weixin_42127613/article/details/81840536
+
+编写微信聊天机器人5《聊天精灵WeChatGenius》：测试文本消息自动回复功能
+https://blog.csdn.net/weixin_42127613/article/details/81841099
+
+编写微信聊天机器人6《聊天精灵WeChatGenius》：使用QMUI Android框架美化UI主界面
+https://blog.csdn.net/weixin_42127613/article/details/81843771
+
+编写微信聊天机器人7《聊天精灵WeChatGenius》：判断Xposed是否安装，以及模块是否激活
+https://blog.csdn.net/weixin_42127613/article/details/81868440
+
+编写微信聊天机器人8《聊天精灵WeChatGenius》：加入微信版本、是否root及安卓版本判断
+https://blog.csdn.net/weixin_42127613/article/details/81869354
+
+编写微信聊天机器人9《聊天精灵WeChatGenius》：加入网络请求功能，使用OkHttp单例
+https://blog.csdn.net/weixin_42127613/article/details/81872403
+
+编写微信聊天机器人10《聊天精灵WeChatGenius》：加入用户登录页面，及数据验证
+https://blog.csdn.net/weixin_42127613/article/details/81876229
+
+编写微信聊天机器人11《聊天精灵WeChatGenius》：加入关于页面
+https://blog.csdn.net/weixin_42127613/article/details/81876492
